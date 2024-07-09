@@ -1,1 +1,2 @@
 foamzou/melody:latest
+deluan/navidrome:latest
