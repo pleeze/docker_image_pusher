@@ -1,3 +1,3 @@
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
-foamzou/melody:all-platform-v1-1-preview
+foamzou/melody:latest
