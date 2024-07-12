@@ -1,3 +1,4 @@
 deluan/navidrome:latest
 xhongc/music_tag_web:latest
 foamzou/melody:latest
+ghcr.io/wy580477/musicn-container:latest
