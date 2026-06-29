@@ -4,6 +4,6 @@ foamzou/melody:latest
 ghcr.io/wy580477/musicn-container:latest
 linuxserver/heimdall:latest
 jeessy/ddns-go:latest
-nyanmisaka/jellyfin:latest
+jellyfin/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 linuxserver/qbittorrent:latest
