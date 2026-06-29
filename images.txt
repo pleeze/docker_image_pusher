@@ -7,3 +7,4 @@ jeessy/ddns-go:latest
 nyanmisaka/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 linuxserver/qbittorrent:latest
+yohe/nastool:latest
